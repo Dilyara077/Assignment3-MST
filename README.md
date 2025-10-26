@@ -59,6 +59,14 @@ However, performance varies depending on graph characteristics:
 
 Overall, **Kruskal’s algorithm demonstrates higher consistency and slightly better real-world performance**, while **Prim’s algorithm** remains more efficient in terms of operation count on dense networks.
 
+## Repository Structure
+📂 src/main/java/com/mst/ — Java source code  
+📂 input/ — Input graphs (JSON format)  
+📂 output/ — MST results and visualizations  
+📄 ass_3_comparison.csv — Comparison results  
+📄 README.md — Documentation and analysis  
+
+
 
 **Author:** Dilyara  
 *(Design and Analysis of Algorithms — Assignment 3)*
